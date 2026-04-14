@@ -1,4 +1,8 @@
-# SPATIO_TEMPORAL_DATA_SCIENCE_ON_CHINA_AIR_POLLUTION
+# SPATIO TEMPORAL DATA SCIENCE ON CHINA AIR POLLUTION
+machine-learning
+time-series
+air-pollution
+
 
 ## Overview
 
